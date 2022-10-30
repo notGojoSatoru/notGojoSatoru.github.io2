@@ -6,6 +6,13 @@
     text-align: center;
     margin-top: 5%;
 }
+#div2{
+    text-align: center;
+    margin-top: 10%;
+}
+#roles{
+    margin-top: 8%;
+}
 #navbar{
     list-style-type: none;
     background-color: rgb(125, 99, 99);
