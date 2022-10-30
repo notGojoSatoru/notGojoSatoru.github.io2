@@ -1,0 +1,1 @@
+# notGojoSatoru.github.io2
