@@ -1,0 +1,25 @@
+.background{
+    background-image: linear-gradient(to right, rgb(167, 108, 37),rgb(177, 37, 37)); ;
+    
+}
+#div{
+    text-align: center;
+    margin-top: 5%;
+}
+#navbar{
+    list-style-type: none;
+    background-color: rgb(125, 99, 99);
+    overflow: hidden;
+}
+#navbar li{
+    display: inline;
+    float: left;
+}
+#navbar li a{
+    display: block;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+#navbar li:last-child{
+    float: right;
+}
